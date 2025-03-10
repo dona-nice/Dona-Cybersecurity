@@ -3,17 +3,17 @@
 
 Brief Introduction
 
-I am a recent graduate with a profound interest in technology and cybersecurity, I am passionate about solving complex problems.
+Recent graduate with a strong passion for technology and cybersecurity, dedicated to solving complex problems through analytical thinking and innovative solutions. Eager to explore and contribute to the field.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science and engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Actor Profiling and MITRE ATT&CK Framework Analysis | Threat Intelligence Lab|
+| Threat Actor Profiling and MITRE ATT&CK Framework Analysis | <a href="https://github.com/dona-nice/Threat-Intelligence-Lab/tree/main">   Threat Intelligence Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -54,6 +54,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Threat Intelligence
+- <a href="https://github.com/dona-nice/Threat-Intelligence-Lab/tree/main">   Threat Intelligence Lab</a>
 - Detection Lab
 - SOC Automation Project
