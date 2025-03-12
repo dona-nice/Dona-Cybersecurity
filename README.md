@@ -14,7 +14,7 @@ My journey in computer science and engineering has led me to develop a passion f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Threat Actor Profiling and MITRE ATT&CK Framework Analysis | <a href="https://github.com/dona-nice/Threat-Intelligence-Lab/tree/main">   Threat Intelligence Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/dona-nice/Detection-Lab-Splunk-/tree/main">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/dona-nice/Detection-Lab-Splunk-/tree/main">Splunk Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/dona-nice/Network_Traffic_Monitoring">Network_Traffic_Monitoring Lab</a>|
 
 
@@ -45,6 +45,6 @@ My journey in computer science and engineering has led me to develop a passion f
 
 ## Projects
 - <a href="https://github.com/dona-nice/Threat-Intelligence-Lab/tree/main">   Threat Intelligence Lab</a>
-- <a href="https://github.com/dona-nice/Detection-Lab-Splunk-/tree/main">Detection Lab</a>
+- <a href="https://github.com/dona-nice/Detection-Lab-Splunk-/tree/main">Splunk Lab</a>
 - <a href="https://github.com/dona-nice/Network_Traffic_Monitoring">Network_Traffic_Monitoring Lab</a>
   
