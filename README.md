@@ -1,15 +1,15 @@
-# Hello, I'm Donatus
+## Hello, I'm Donatus
 <a href="https://linkedin.com/in/donatusedeh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Brief Introduction
 
 Recent graduate with a strong passion for technology and cybersecurity, dedicated to solving complex problems through analytical thinking and innovative solutions. Eager to explore and contribute to the field.
 
-## Objective
+### Objective
 
 My journey in computer science and engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+### Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +19,7 @@ My journey in computer science and engineering has led me to develop a passion f
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/dona-nice/Network_Traffic_Monitoring">Network_Traffic_Monitoring Lab</a>|
 
 
-## Tools
+### Tools
 
 ### Network
 <div>
@@ -37,14 +37,14 @@ My journey in computer science and engineering has led me to develop a passion f
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
+### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-blue?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ITIL%20V3-purple?&style=for-the-badge&logo=ITIL&logoColor=white" />
 </div>
 
-## Projects
+### Projects
 - <a href="https://github.com/dona-nice/Threat-Intelligence-Lab/tree/main">   Threat Intelligence Lab</a>
 - <a href="https://github.com/dona-nice/Detection-Lab-Splunk-/tree/main">Splunk Lab</a>
 - <a href="https://github.com/dona-nice/Network_Traffic_Monitoring">Network_Traffic_Monitoring Lab</a>
