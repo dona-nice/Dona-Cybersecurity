@@ -37,6 +37,8 @@ My journey in computer science and engineering has led me to develop a passion f
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Programming
+
 ### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-blue?&style=for-the-badge&logo=ISC2&logoColor=white" />
