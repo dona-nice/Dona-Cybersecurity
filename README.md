@@ -50,6 +50,6 @@ My journey in computer science and engineering has led me to develop a passion f
 - <a href="https://github.com/dona-nice/Deep_Learning_with_Keras"> Deep Learning with Keras</a>
 - <a href="https://github.com/dona-nice/Threat_Intelligence_Lab/tree/main">Threat Intelligence Lab</a>
 - <a href="https://github.com/dona-nice/Detection_Lab_Splunk/tree/main">Detection Lab</a>
-- <a href="https://github.com/dona-nice/Network_Traffic_Monitoring">Network_Traffic_Monitoring Lab</a>
+- <a href="https://github.com/dona-nice/Network_Traffic_Monitoring">Network Traffic Monitoring Lab</a>
 
   
