@@ -13,7 +13,8 @@ My journey in computer science and engineering has led me to develop a passion f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Deep Leaning for Cybersecurity | <a href="https://github.com/dona-nice/Deep-Learning">Intrusion Detection via Feedforward Deep Neural Networks</a>|
+| Deep Learning with PyTorch | <a href="https://github.com/dona-nice/Generative_Adversarial_Network/tree/main">Generative Adversarial Network</a>|
+| Deep Leaning with Keras | <a href="https://github.com/dona-nice/Deep-Learning">Intrusion Detection via Feedforward Deep Neural Networks</a>|
 | Threat Actor Profiling and MITRE ATT&CK Framework Analysis | <a href="https://github.com/dona-nice/Threat-Intelligence-Lab/tree/main">Threat Intelligence Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/dona-nice/Detection-Lab-Splunk-/tree/main">Splunk Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/dona-nice/Network_Traffic_Monitoring">Network_Traffic_Monitoring Lab</a>|
@@ -47,6 +48,7 @@ My journey in computer science and engineering has led me to develop a passion f
 </div>
 
 ### Projects
+- <a href="https://github.com/dona-nice/Generative_Adversarial_Network/tree/main"> Deep Learning with PyTorch</a>
 - <a href="https://github.com/dona-nice/Deep_Learning_with_Keras"> Deep Learning with Keras</a>
 - <a href="https://github.com/dona-nice/Threat_Intelligence_Lab/tree/main">Threat Intelligence Lab</a>
 - <a href="https://github.com/dona-nice/Detection_Lab_Splunk/tree/main">Detection Lab</a>
