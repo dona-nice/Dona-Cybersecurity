@@ -3,11 +3,13 @@
 
 Brief Introduction
 
-Recent graduate with a strong passion for technology and cybersecurity, dedicated to solving complex problems through analytical thinking and innovative solutions. Eager to explore and contribute to the field.
+I am a graduate with a strong passion for technology and cybersecurity, with a focus on the intersection of Artificial intelligence and cybersecurity, dedicated to solving complex problems through research,  analytical thinking, and innovative solutions. Eager to explore and contribute to the field. I have a dual MSc degree in Information Security & Cryptography and Computer Systems Engineering. My work focuses on deep learning for intrusion detection, generative AI for cyber defense, and the design of robust, trustworthy security systems.
+
+I am particularly interested in building proactive, AI-driven intrusion-prevention frameworks that integrate adversarial modeling, explainability, and hardware-aware enforcement. My repositories reflect hands-on experience with Python, TensorFlow/Keras, network traffic analysis, and applied machine learning for security use cases. I am currently preparing for a PhD research in AI Security, intending to develop deployable, verifiable AI systems for next-generation cyber defense.
 
 ### Objective
 
-My journey in computer science and engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science and engineering has led me to develop a passion for cybersecurity. I aim to be a researcher on Artificial Intelligence for Cybersecurity, exploring network security, IoT security, and Generative Adversarial security, both in academia and the industry. My goal is to build intelligent, trustworthy AI systems for next-generation cyber defense.
 
 ### Skills
 
